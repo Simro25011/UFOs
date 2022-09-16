@@ -14,3 +14,7 @@ The table was created using JavaScript, while HTML/CSS and Bootstrap were used t
 ### Filter search overview
 
 ![Filter search overview](https://github.com/Simro25011/UFOs/blob/main/static/images/website_filter%20search.png)
+
+### Filter search in Action
+
+![Filter search in Action](https://github.com/Simro25011/UFOs/blob/main/static/images/filter_in_action.png)
