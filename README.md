@@ -17,4 +17,6 @@ The table was created using JavaScript, while HTML/CSS and Bootstrap were used t
 
 ### Filter search in Action
 
+By filetering by the date , the result returns 3 matches.
+
 ![Filter search in Action](https://github.com/Simro25011/UFOs/blob/main/static/images/filter_in_action.png)
